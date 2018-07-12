@@ -1,2 +1,3 @@
 //Code your solution here
-getFirstSelector 
+function getFirstSelector (selector) 
+nestedTarget()
